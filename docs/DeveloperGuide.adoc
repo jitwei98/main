@@ -858,7 +858,9 @@ Additional user stories:
 |`* * *` |team leader of a group project |save the timetable of my project group mates |find potential time slot for
 meetings
 
-|`* * *` |user who is concerned about security |hide some/all of my contacts with a password |people cannot see them without my permission.
+|`* * *` |user who is concerned about security |hide some/all of my contacts with a password |people cannot see them without my permission
+
+|`* *` |student who wants to switch from an old laptop to a new laptop |export my contacts as a .vcf file |transfer them to my new laptop
 
 |`* *` |extensive CLI user|have autocomplete function |accomplish my command line input faster
 
